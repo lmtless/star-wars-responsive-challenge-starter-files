@@ -1,0 +1,19 @@
+header {
+	background-color: orange;
+}
+main {
+	padding-top: 100px;
+}
+main .row {
+	margin-bottom: 20px;
+}
+.picture {
+	height: 200px;
+	text-align: center;
+}
+.pic {
+	border: solid grey 1px;
+}
+
+
+
